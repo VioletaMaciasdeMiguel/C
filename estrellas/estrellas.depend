@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541786823 source:c:\users\kiko2016\desktop\estrellas\main.c
+	<stdio.h>
+	<stdlib.h>
+

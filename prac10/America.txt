@@ -1,0 +1,74 @@
+Argentina
+Buenos Aires
+Bolivia
+Sucre
+Brasil
+Brasilia
+Chile
+Santiago
+Colombia
+Bogota
+Ecuador
+Quito
+Guyana
+Georgetown
+Guayana francesa
+Cayena
+Paraguay
+Asuncion
+Peru
+Lima
+Surinam
+Paramaribo
+Uruguay
+Montevideo
+Venezuela
+Caracas
+Antigua y Barbuda
+Saint John's
+Bahamas
+Nassau
+Barbados
+Bridgetown
+Belice
+Belmopan
+Costa Rica
+San Jose
+Cuba
+La Habana
+Dominica
+Roseau
+El Salvador
+San Salvador
+Granada
+Saint George's
+Guatemala
+Ciudad de Guatemala
+Haiti
+Puerto Principe
+Honduras
+Tegulcigalpa
+Jamaica
+Kingston
+Nicaragua
+Managua
+Panama
+La ciudad de Panama
+Puerto Rico
+San Juan
+Republica Dominicana
+Santo Domingo
+San Cristobal y Nevis
+Basseterre
+Santa Lucia
+Castries
+San Vicente y las Granadinas
+Kingstown
+Trinidad y Tobago
+Puerto España
+Canada
+Ottawa
+Estados Unidos
+Washington
+Mexico
+Ciudad de Mexico

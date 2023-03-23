@@ -1,0 +1,100 @@
+Afganistan
+Kabul
+Arabia Saudita
+Yidda
+Armenia
+Yerevan
+Azerbaiyan
+Baku
+Bahrein
+Manama
+Bangladesh
+Dacca
+Bhutan
+Timbu
+Brunei
+Bandar Seri Begawan
+Camboya
+Phnom Penh
+China
+Pekin
+Chipre
+Lefkosa
+Emiratos Arabes Unidos
+Abu Dhabi
+Federacion Rusa
+Moscu
+Filipinas
+Manila
+Georgia
+Tbilisi
+India
+Nueva Delhi
+Indonesia
+Yakarta
+Iran
+Teheran
+Iraq
+Bagdad
+Israel
+Jerusalen
+Japon
+Tokio
+Jordania
+Amman
+Kazajstan
+Astana
+Kirguistan
+Bishkek
+Kuwait
+Al-kuwait
+Libano
+Beirut
+Malasia
+Kuala Lumpur
+Maldivas
+Male
+Mongolia
+Ulan Bator
+Myanmar
+Yangon
+Nepal
+Katmandu
+Oman
+Mascate
+Pakistan
+Islamabad
+Palestina
+Al-Quds
+Qatar
+Doha
+Republica De Corea
+Seul
+Republica Democratica Popular Laos
+Vientiane
+Republica Popular Democratica De Corea
+Pyongyang
+Singapur
+Ciudad de Singapur
+Siria
+Damasco
+Sri Lanka
+Colombo
+Tailandia
+Bangkok
+Taiwan
+Taipei
+Tayikistan
+Dushambe
+Timor Leste
+Kupang
+Turkmenistan
+Ashjabad
+Turquia
+Ankara
+Uzbekistan
+Tashkent
+Vietnam
+Hanoi
+Yemen
+Sana
