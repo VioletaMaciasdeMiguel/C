@@ -1,0 +1,163 @@
+#include<stdio.h>
+void pasarAMayusc(char *c);
+int main()
+{
+char min;
+printf("introduce un carácter alfabético minúscula: ");
+scanf("%c",&min);
+pasarAMayusc(min);
+printf("%c", min);
+return 0;
+}
+
+void pasarAMayusc(char *c)
+{
+if (*c<='a' && *c>='z')
+  {
+      switch(*c){
+    case 'a': *c='A';
+    break;
+    /*case 2: if(c='b') c='B';
+    break;
+    case 3: if(c='c') c='C';
+    break;
+    case 4: if(c='d') c='D';
+    break;
+    case 5: if(c='e') c='E';
+    break;
+    case 6: if(c='f') c='F';
+    break;
+    case 7: if(c='g') c='G';
+    break;
+    case 8: if(c='h') c='H';
+    break;
+    case 9: if(c='i') c='I';
+    break;
+    case 10: if(c='j') c='J';
+    break;
+    case 11: if(c='k') c='K';
+    break;
+    case 12: if(c='l') c='L';
+    break;
+    case 13: if(c='m') c='M';
+    break;
+    case 14: if(c='n') c='N';
+    break;
+    case 15: if(c='ñ') c='Ñ';
+    break;
+    case 16: if(c='o') c='O';
+    break;
+    case 17: if(c='p') c='P';
+    break;
+    case 18: if(c='q') c='Q';
+    break;
+    case 19: if(c='r') c='R';
+    break;
+    case 20: if(c='s') c='S';
+    break;
+    case 21: if(c='t') c='T';
+    break;
+    case 22: if(c='u') c='U';
+    break;
+    case 23: if(c='v') c='V';
+    break;
+    case 24: if(c='w') c='W';
+    break;
+    case 25: if(c='x') c='X';
+    break;
+    case 26: if(c='y') c='Y';
+    break;*/
+    default: if(*c=='z') *c='Z';
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+#include<stdio.h>
+int main()
+char pasarAMayusc(char c)
+{
+    char min;
+    FILE *FE;
+    FILE *FM;
+    FE = fopen(entrada.txt);
+    FM = fopen(salida.txt);
+    fscanf(FE, "%c", &min);
+    while(!feof(FE))
+        {
+            pasarAMayusc(min);
+            fprintf( FM,"%c",min);
+            fscanf(FE, "%c", &min);
+         }
+return 0;
+}
+pasarAMayusc(char c)
+{
+if (c<=a && c>=z)
+  switch( num) {
+case 1: if(c=a) c=A;
+break;
+case 2: if(c=b) c=B;
+break;
+case 3: if(c=c) c=C;
+break;
+case 4: if(c=d) c=D;
+break;
+case 5: if(c=e) c=E;
+break;
+case 6: if(c=f) c=F;
+break;
+case 7: if(c=g) c=G;
+break;
+case 8: if(c=h) c=H;
+break;
+case 9: if(c=i) c=I;
+break;
+case 10: if(c=j) c=J;
+break;
+case 11: if(c=k) c=K;
+break;
+case 12: if(c=l) c=L;
+break;
+case 13: if(c=m) c=M;
+break;
+case 14: if(c=n) c=N;
+break;
+case 15: if(c=ñ) c=Ñ;
+break;
+case 16: if(c=o) c=O;
+break;
+case 17: if(c=p) c=P;
+break;
+case 18: if(c=q) c=Q;
+break;
+case 19: if(c=r) c=R;
+break;
+case 20: if(c=s) c=S;
+break;
+case 21: if(c=t) c=T;
+break;
+case 22: if(c=u) c=U;
+break;
+case 23: if(c=v) c=V;
+break;
+case 24: if(c=w) c=W;
+break;
+case 25: if(c=x) c=X;
+break;
+case 26: if(c=y) c=Y;
+break;
+case 27: if(c=z) c=Z;
+break;
+default: ;      
+}
+
+
